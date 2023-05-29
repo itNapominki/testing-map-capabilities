@@ -1,0 +1,47 @@
+.wrapper {
+    width: 500px;
+    height: 500px;
+  }
+
+  .marker-pin {
+    width: 30px;
+    height: 30px;
+    border-radius: 50% 50% 50% 0;
+    background: blue;
+    position: absolute;
+    transform: rotate(-45deg);
+    left: 50%;
+    top: 50%;
+    margin: -15px 0 0 -15px;
+    display: flex;
+  }
+  
+  
+  
+  
+  
+   .marker-pin-in {
+    width: 24px;
+    height: 24px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    margin: auto;
+  
+   }
+  
+   .marcer-number {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 16px;
+    position: absolute;
+    top: -19px;
+    right: -46px;
+    background-color: blue;
+    color: antiquewhite;
+    border-radius: 8px;
+    padding: 3px;
+    min-width: 110px;   
+  
+   }

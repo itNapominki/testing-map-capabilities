@@ -1,0 +1,11 @@
+.wrapper {
+    /* height: 125px; */
+    /* width: 265px; */
+    position: absolute;
+    bottom: 20px;
+    left: 14px;
+    background-color:#c8f9cc;
+    z-index: 2;
+    padding: 15px;
+    display: flex;
+}
